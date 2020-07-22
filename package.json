@@ -1,0 +1,22 @@
+{
+  "name": "learning-bot-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:msvasconcelos/bot-node-telegram.git"
+  },
+  "author": "Matheus Vasconcelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msvasconcelos/bot-node-telegram/issues"
+  },
+  "homepage": "https://github.com/msvasconcelos/bot-node-telegram#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
